@@ -1,0 +1,86 @@
+format = """
+$conda\
+$python\
+$directory\
+$git_branch\
+$git_state\
+$git_status\
+$character\
+$nodejs\
+$rust\
+$docker_context\
+$java\
+"""
+
+right_format = """
+$cmd_duration\
+$time
+"""
+
+
+[cmd_duration]
+min_time = 1_000       
+format = "[⏱ $duration]($style)"
+style = "bold italic yellow"
+
+[nodejs]
+symbol = ""
+style = "bold green"
+format = "[$symbol ($version)]($style) "
+
+[rust]
+symbol = "🦀"
+style = "bold red"
+format = "[$symbol $version]($style) "
+
+[docker_context]
+symbol = ""
+style = "bold blue"
+format = "[$symbol $context]($style) "
+
+[python]
+symbol = ""
+style = "italic bold #A6E3A1"
+format = '[${symbol} ${version}${virtualenv} ]($style)'
+python_binary = "python3"
+pyenv_version_name = true
+
+[conda]
+symbol = ""
+style = "bold italic #855c06"
+format = '[$symbol $environment]($style) '
+ignore_base = true
+
+[java]
+symbol = ""
+style = "bold #f7df1e"
+format = "[$symbol $version]($style) "
+
+[directory]
+style = "bold #89B4FA"
+read_only = " "
+format = "[$path]($style)[$read_only]($style) "
+
+[git_branch]
+symbol = ""
+style = "bold #F38BA8"
+format = "[$symbol $branch]($style) "
+
+[git_state]
+format = '[$state( $progress_current/$progress_total)](italic yellow) '
+
+[git_status]
+style = "#FAB387"
+format = '[\( $conflicted$staged$modified$renamed$deleted$untracked\)]($style) '
+conflicted = "[✖ $count](red) "
+staged = "[✓ $count](green) "
+modified = "[! $count](yellow) "
+renamed = "[→ $count](blue) "
+deleted = "[× $count](red) "
+untracked = "[? $count](grey) "
+
+[character]
+success_symbol = "[󰜴](bold #9ccfd8) "
+error_symbol = "[󰜴](bold #eb6f92) "
+vicmd_symbol = "[V](bold #c4a7e7) "
+
