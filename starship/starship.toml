@@ -1,13 +1,13 @@
 format = """
 $conda\
 $python\
+$rust\
 $directory\
 $git_branch\
 $git_state\
 $git_status\
 $character\
 $nodejs\
-$rust\
 $docker_context\
 $java\
 """
@@ -31,7 +31,7 @@ format = "[$symbol ($version)]($style) "
 [rust]
 symbol = "🦀"
 style = "bold red"
-format = "[$symbol $version]($style) "
+format = "[$symbol]($style) "
 
 [docker_context]
 symbol = ""
