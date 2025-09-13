@@ -44,9 +44,13 @@
 
 background = #000000
 theme = rose-pine
-font-family = Fira Code
-font-size = 15
-background-opacity = 0.8
-background-blur = true
+font-family = FiraCode Nerd Font Mono
+font-family-bold = FiraCode Nerd Font Mono
+font-family-italic = FiraCode Nerd Font Mono
+font-family-bold-italic = FiraCode Nerd Font Mono
+font-size = 16
+
+background-opacity = 0.9
+# background-blur = true
 resize-overlay = never
 
