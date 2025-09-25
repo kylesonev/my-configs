@@ -42,15 +42,13 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms\
 
+theme = Rose Pine
 background = #000000
-theme = rose-pine
 font-family = FiraCode Nerd Font Mono
-font-family-bold = FiraCode Nerd Font Mono
-font-family-italic = FiraCode Nerd Font Mono
-font-family-bold-italic = FiraCode Nerd Font Mono
 font-size = 16
+font-style = "SemiBold"
+
 
 background-opacity = 0.9
 # background-blur = true
 resize-overlay = never
-

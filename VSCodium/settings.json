@@ -36,5 +36,5 @@
   "editor.defaultFormatter": "ms-python.autopep8",
   "files.saveConflictResolution": "overwriteFileOnDisk",
   "workbench.colorTheme": "Min Dark",
-  "jupyter.askForKernelRestart": false,
+  "jupyter.askForKernelRestart": false
 }
