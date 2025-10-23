@@ -1,0 +1,16 @@
+# Dynamic theme colors
+config-file = ?"~/.config/omarchy/current/theme/ghostty.conf"
+
+# Font
+font-family = "CaskaydiaCove Nerd Font"
+font-style = Regular
+font-size = 14.5
+theme=Vague
+
+confirm-close-surface=false
+resize-overlay = never
+background-opacity = 0.96
+background = #000000
+# # Cursor stlying
+cursor-style = block
+cursor-style-blink = false

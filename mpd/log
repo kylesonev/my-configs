@@ -1,0 +1,126 @@
+2025-10-21T19:28:55 update: added /Bullet Bane - Reta Ação (Ao vivo em São Paulo) [kar3E8jwWl4].mp3
+2025-10-21T19:30:26 update: added /Bullet Bane - Reta Ação (Ao vivo em São Paulo) [kar3E8jwWl4].mp3
+2025-10-21T19:33:04 player: played "Bullet Bane - Reta Ação (Ao vivo em São Paulo) [kar3E8jwWl4].mp3"
+2025-10-21T19:34:40 player: played "Bullet Bane - Reta Ação (Ao vivo em São Paulo) [kar3E8jwWl4].mp3"
+2025-10-21T19:49:09 update: added /You Shook Me (Remaster) [aywXuljytH0].mp3
+2025-10-21T19:49:50 update: added Led Zeppelin I/teste.mp3
+2025-10-21T19:49:50 update: removing You Shook Me (Remaster) [aywXuljytH0].mp3
+[src/libmpg123/lfs_wrap.c:INT123_wrap_open():851] error: Cannot open file /home/guilherme/Music/Led Zeppelin I/teste.mp3: No such file or directory
+2025-10-21T20:02:48 mpg123: libmpg123 failed to open /home/guilherme/Music/Led Zeppelin I/teste.mp3: A generic mpg123 error.
+2025-10-21T20:02:48 exception: Failed to open "/home/guilherme/Music/Led Zeppelin I/teste.mp3": No such file or directory
+[src/libmpg123/lfs_wrap.c:INT123_wrap_open():851] error: Cannot open file /home/guilherme/Music/Led Zeppelin I/teste.mp3: No such file or directory
+2025-10-21T20:02:48 mpg123: libmpg123 failed to open /home/guilherme/Music/Led Zeppelin I/teste.mp3: A generic mpg123 error.
+2025-10-21T20:02:48 exception: Failed to open "/home/guilherme/Music/Led Zeppelin I/teste.mp3": No such file or directory
+2025-10-21T20:02:49 update: added Led Zeppelin I/Babe I'm Gonna Leave You (Remaster) [UyOg0mt2R2k].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/Black Mountain Side (Remaster) [5Y2yoadwSQ0].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/Communication Breakdown (Remaster) [3EH7QMVnSRI].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/Dazed and Confused (Remaster) [yO2n7QoyieM].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/Good Times Bad Times (Remaster) [lsZG7n7ries].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/How Many More Times (Remaster) [y-5o2f9wzmw].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/I Can't Quit You Baby (Remaster) [0dA5Vfl1bbU].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/Your Time Is Gonna Come (Remaster) [5cvEVivHVsU].mp3
+2025-10-21T20:02:49 update: added Led Zeppelin I/You Shook Me (Remaster) [aywXuljytH0].mp3
+2025-10-21T20:02:49 update: removing Led Zeppelin I/teste.mp3
+2025-10-21T20:03:08 exception: No such song
+2025-10-21T20:03:08 exception: No such song
+2025-10-21T20:04:11 player: played "Led Zeppelin I/Your Time Is Gonna Come (Remaster) [5cvEVivHVsU].mp3"
+2025-10-21T20:09:21 update: removing Led Zeppelin I/Your Time Is Gonna Come (Remaster) [5cvEVivHVsU].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/You Shook Me (Remaster) [aywXuljytH0].mp3
+2025-10-21T20:09:21 update: added /Sleep Token - Caramel [4iSvoQNfrrk].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/I Can't Quit You Baby (Remaster) [0dA5Vfl1bbU].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/How Many More Times (Remaster) [y-5o2f9wzmw].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/Good Times Bad Times (Remaster) [lsZG7n7ries].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/Dazed and Confused (Remaster) [yO2n7QoyieM].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/Communication Breakdown (Remaster) [3EH7QMVnSRI].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/Black Mountain Side (Remaster) [5Y2yoadwSQ0].mp3
+2025-10-21T20:09:21 update: removing Led Zeppelin I/Babe I'm Gonna Leave You (Remaster) [UyOg0mt2R2k].mp3
+2025-10-21T20:40:42 update: updating /Sleep Token - Caramel [4iSvoQNfrrk].mp3
+2025-10-21T20:40:42 update: removing Bullet Bane - Reta Ação (Ao vivo em São Paulo) [kar3E8jwWl4].mp3
+2025-10-21T20:49:04 player: played "Sleep Token - Caramel [4iSvoQNfrrk].mp3"
+2025-10-22T06:58:02 update: added /Led Zeppelin - Good Times Bad Times (Official Audio) [TA9Rec1qAFQ].mp3
+2025-10-22T07:33:43 update: added Led Zeppelin I/Led Zeppelin - Good Times Bad Times (Official Audio) [TA9Rec1qAFQ].mp3
+2025-10-22T07:33:43 update: removing Led Zeppelin - Good Times Bad Times (Official Audio) [TA9Rec1qAFQ].mp3
+2025-10-22T08:11:18 player: played "Led Zeppelin I/Led Zeppelin - Good Times Bad Times (Official Audio) [TA9Rec1qAFQ].mp3"
+2025-10-22T12:20:41 player: played "Led Zeppelin I/Led Zeppelin - Good Times Bad Times (Official Audio) [TA9Rec1qAFQ].mp3"
+2025-10-22T12:31:14 player: played "Sleep Token - Caramel [4iSvoQNfrrk].mp3"
+2025-10-22T12:42:42 player: played "Sleep Token - Caramel [4iSvoQNfrrk].mp3"
+2025-10-22T20:25:31 update: added /BAD OMENS - Dying To Love (Official Music Video) [4xq5QzNG-m8].mp3
+2025-10-22T20:30:07 player: played "BAD OMENS - Dying To Love (Official Music Video) [4xq5QzNG-m8].mp3"
+2025-10-22T20:34:02 update: added /bad omens dying to love.mp3
+2025-10-22T20:34:02 update: removing BAD OMENS - Dying To Love (Official Music Video) [4xq5QzNG-m8].mp3
+[src/libmpg123/lfs_wrap.c:INT123_wrap_open():851] error: Cannot open file /home/guilherme/Music/bad omens dying to love.mp3: No such file or directory
+2025-10-22T20:43:33 mpg123: libmpg123 failed to open /home/guilherme/Music/bad omens dying to love.mp3: A generic mpg123 error.
+2025-10-22T20:43:33 exception: Failed to open "/home/guilherme/Music/bad omens dying to love.mp3": No such file or directory
+[src/libmpg123/lfs_wrap.c:INT123_wrap_open():851] error: Cannot open file /home/guilherme/Music/bad omens dying to love.mp3: No such file or directory
+2025-10-22T20:43:33 mpg123: libmpg123 failed to open /home/guilherme/Music/bad omens dying to love.mp3: A generic mpg123 error.
+2025-10-22T20:43:33 exception: Failed to open "/home/guilherme/Music/bad omens dying to love.mp3": No such file or directory
+2025-10-22T20:43:34 update: added BAD OMENS/bad omens dying to love.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Alkaline.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Atlantic.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Descending.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Distraction.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Fall For Me.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - High Water.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Hypnosis.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Like That.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Mine.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Missing Limbs.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - Telomeres.mp3
+2025-10-22T20:43:34 update: added Sleep Token/This Place Will Become Your Tomb/Sleep Token - The Love You Want.mp3
+2025-10-22T20:43:34 update: removing bad omens dying to love.mp3
+2025-10-22T20:43:34 update: removing Sleep Token - Caramel [4iSvoQNfrrk].mp3
+2025-10-22T20:43:35 player: played "bad omens dying to love.mp3"
+2025-10-22T20:49:06 player: played "Sleep Token/This Place Will Become Your Tomb/Sleep Token - Atlantic.mp3"
+2025-10-22T20:54:42 player: played "Sleep Token/This Place Will Become Your Tomb/Sleep Token - Hypnosis.mp3"
+2025-10-22T20:59:38 player: played "Sleep Token/This Place Will Become Your Tomb/Sleep Token - Mine.mp3"
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Past Self.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Dangerous.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Emergence.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Look To Windward.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Caramel.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Even In Arcadia.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Provider.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Damocles.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Gethsemane.mp3
+2025-10-22T21:00:00 update: added Sleep Token/Even in Arcadia/Sleep Token - Infinite Baths.mp3
+2025-10-22T21:03:13 player: played "Sleep Token/This Place Will Become Your Tomb/Sleep Token - Like That.mp3"
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - Dazed and Confused - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - Babe I'm Gonna Leave You - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - You Shook Me - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - Good Times Bad Times - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - Communication Breakdown - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - Black Mountain Side - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - Your Time Is Gonna Come - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - I Can't Quit You Baby - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin I/Led Zeppelin - How Many More Times - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Whole Lotta Love - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - The Lemon Song - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - What Is and What Should Never Be - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Thank You - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Living Loving Maid (She's Just a Woman) - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Moby Dick - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Heartbreaker - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Ramble On - Remaster.mp3
+2025-10-22T21:08:39 update: added Led Zeppelin/Led Zeppelin II/Led Zeppelin - Bring It on Home - Remaster.mp3
+2025-10-22T21:08:39 update: removing Led Zeppelin I/Led Zeppelin - Good Times Bad Times (Official Audio) [TA9Rec1qAFQ].mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Friends - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Since I've Been Loving You - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Immigrant Song - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Celebration Day - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Out on the Tiles - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Gallows Pole - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Tangerine - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - That's the Way - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Bron-Y-Aur Stomp - Remaster.mp3
+2025-10-22T21:11:31 update: added Led Zeppelin/Led Zeppelin III/Led Zeppelin - Hats off To (Roy) Harper - Remaster.mp3
+2025-10-22T21:11:31 update: removing BAD OMENS/bad omens dying to love.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - The Battle of Evermore - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - Rock and Roll - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - Stairway to Heaven - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - Black Dog - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - Misty Mountain Hop - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - Four Sticks - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - Going to California - Remaster.mp3
+2025-10-22T21:13:27 update: added Led Zeppelin/Led Zeppelin IV/Led Zeppelin - When the Levee Breaks - Remaster.mp3
+2025-10-22T21:13:39 player: played "Sleep Token/This Place Will Become Your Tomb/Sleep Token - The Love You Want.mp3"
+2025-10-23T08:41:56 player: played "Led Zeppelin/Led Zeppelin I/Led Zeppelin - Good Times Bad Times - Remaster.mp3"
